@@ -112,7 +112,6 @@ void __init kirkwood_ge00_switch_init(struct dsa_platform_data *d, int irq)
 	orion_ge00_switch_init(d, irq);
 }
 
-
 /*****************************************************************************
  * NAND flash
  ****************************************************************************/
